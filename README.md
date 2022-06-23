@@ -1,4 +1,4 @@
-#### Greetings! 👋
+# Greetings! 👋
 
 My name is Wiebe Sportel, and i am an aspiring programmer. I am currently a student at CMGT (Creative Media and Game Technologies) at Saxion Enschede. I love to learn!
 
