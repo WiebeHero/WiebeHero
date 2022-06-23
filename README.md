@@ -1,7 +1,8 @@
-### Hi there 👋
-Heya
+### Greetings! 👋
 
-:handbag:
+My name is Wiebe Sportel, and i am an aspiring programmer. I am currently a student at CMGT (Creative Media and Game Technologies) at Saxion Enschede. I love to learn!
+
+##My skills
 
 <!--
 **WiebeHero/WiebeHero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
