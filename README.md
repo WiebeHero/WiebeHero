@@ -20,3 +20,5 @@ My name is Wiebe Sportel, and i am an aspiring programmer, my main focus is in G
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiebe-sportel-5191b5183/)
 
 ## My projects
+### JEngine2D
+[![JEngine2D](https://github-readme-stats.vercel.app/api/pin/?username=WiebeHero&repo=JEngine2D&theme=dark)](https://github.com/WiebeHero/JEngine2D)
