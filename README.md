@@ -2,7 +2,6 @@
 
 My name is Wiebe Sportel, and i am an aspiring programmer, my main focus is in Game Development. I am currently a student at CMGT (Creative Media and Game Technologies) at Saxion Enschede. I love to learn!
 
-
 ## My programming skills
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,5 +15,8 @@ My name is Wiebe Sportel, and i am an aspiring programmer, my main focus is in G
 ## Libraries/Frameworks i have experience in
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+## My socials
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## My projects
