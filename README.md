@@ -23,4 +23,9 @@ My name is Wiebe Sportel, and i am an aspiring programmer, my main focus is in G
 ### JEngine2D
 [![JEngine2D](https://github-readme-stats.vercel.app/api/pin/?username=WiebeHero&repo=JEngine2D&theme=dark)](https://github.com/WiebeHero/JEngine2D)
 
-JEngine2D was a project that i made for an ambition project at school. This is mean to be the base of the engine i was making for a specific game i was going to make with this engine.
+JEngine2D was an ambition project that i made for school. This is meant to be the base of the engine i was making for a specific game i was going to make with this engine.
+
+### SinnerGame
+[![SinnerGame](https://github-readme-stats.vercel.app/api/pin/?username=WiebeHero&repo=SinnerGame&theme=dark)](https://github.com/WiebeHero/JEngine2D)
+
+Sinner Game was an ambition project that i made for school. This is meant to be the actual game version, using the JEngine2D.
