@@ -34,3 +34,15 @@ Sinner Game was an ambition project that i made for school. This is meant to be 
 [![ProjectGame](https://github-readme-stats.vercel.app/api/pin/?username=WiebeHero&repo=ProjectGame&theme=dark)](https://github.com/WiebeHero/ProjectGame)
 
 Project Game was a dating sim made for a project week of school.
+
+### DungeonForge
+[![DungeonForge](https://github-readme-stats.vercel.app/api/pin/?username=WiebeHero&repo=DungeonForge&theme=dark)](https://github.com/WiebeHero/DungeonForge)
+
+A minecraft plugin which aims to change the way you play minecraft, through using a concept called 'Factions' where you fight in teams against others, and where you can attack their base and steal their items. This plugin was made for minecraft 1.12.2
+
+### DungeonForgeJ13
+[![DungeonForgeJ13](https://github-readme-stats.vercel.app/api/pin/?username=WiebeHero&repo=DungeonForgeJ13&theme=dark)](https://github.com/WiebeHero/DungeonForgeJ13)
+
+A minecraft plugin which aims to change the way you play minecraft, through using a concept called 'Factions' where you fight in teams against others, and where you can attack their base and steal their items. This plugin was made for minecraft 1.13.2, a huge improvement upon the 1.12.2 version.
+
+
