@@ -24,7 +24,7 @@ My name is Wiebe Sportel, and I am an aspiring programmer, my main focus is in G
 ## My projects
 
 ### SinnerGame
-[![SinnerGame](https://github-readme-stats.vercel.app/api/pin/?username=WiebeHero&repo=SinnerGame&theme=dark)](https://github.com/WiebeHero/SinnerGame)
+
 
 Sinner Game was an ambition project that I made for school. This is meant to be the actual game version, using the JEngine2D.
 
