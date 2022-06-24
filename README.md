@@ -45,5 +45,4 @@ A minecraft plugin which aims to change the way you play minecraft, through usin
 
 ### AlgorithmsAssignment
 [![AlgorithmsAssignment](https://github-readme-stats.vercel.app/api/pin/?username=WiebeHero&repo=AlgorithmsAssignment&theme=dark)](https://github.com/WiebeHero/AlgorithmsAssignment)
-
 An assignment made for school where they taught us about algorithms, how they work, and how we should implement such algorithms into code.
