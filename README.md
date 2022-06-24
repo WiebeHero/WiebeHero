@@ -10,11 +10,13 @@ My name is Wiebe Sportel, and I am an aspiring programmer, my main focus is in G
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-(Some of these languages are not seen in my repositories, this is because some of them are private and are owned by companies.)
+(Some of these programming languages are not seen in my repositories, this is because some of them are private and are owned by companies.)
 
 ## Libraries/Frameworks I have experience in
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+(Some of these libraries/framework are not seen in my repositories, this is because some of them are private and are owned by companies.)
 
 ## My socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiebe-sportel-5191b5183/)
