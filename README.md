@@ -13,8 +13,8 @@ My name is Wiebe Sportel, and I am an aspiring programmer, my main focus is in G
 (Some of these programming languages are not seen in my repositories, this is because some of them are private and are owned by companies.)
 
 ## Libraries/Frameworks I have experience in
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
 
 (Some of these libraries/framework are not seen in my repositories, this is because some of them are private and are owned by companies.)
 
