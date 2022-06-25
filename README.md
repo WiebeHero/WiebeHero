@@ -24,6 +24,13 @@ Phone Number: 0651986407
 
 (Some of these libraries/framework are not seen in my repositories, this is because some of them are private and are owned by companies.)
 
+## Game Engines/Model Experience
+
+[![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/about/)
+[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+
+(Some of these experiences are not seen in my repositories, this is because some of them are private and are owned by companies.)
+
 ## My socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiebe-sportel-5191b5183/)
 
