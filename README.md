@@ -5,6 +5,7 @@ My name is Wiebe Sportel, and I am an aspiring programmer, my main focus is in G
 ## My contact info
 
 Email: wiebesportel2001@hotmail.com
+
 Phone Number: 0651986407
 
 ## My programming skills
