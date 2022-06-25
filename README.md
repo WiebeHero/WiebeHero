@@ -35,21 +35,9 @@ Phone Number: 0651986407
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiebe-sportel-5191b5183/)
 
 ## My projects
-
-### SinnerGame
 [![SinnerGame](https://github-readme-stats.vercel.app/api/pin/?username=WiebeHero&repo=SinnerGame&theme=dark)](https://github.com/WiebeHero/SinnerGame)
-
-### JEngine2D
 [![JEngine2D](https://github-readme-stats.vercel.app/api/pin/?username=WiebeHero&repo=JEngine2D&theme=dark)](https://github.com/WiebeHero/JEngine2D)
-
-### ProjectGame
 [![ProjectGame](https://github-readme-stats.vercel.app/api/pin/?username=WiebeHero&repo=ProjectGame&theme=dark)](https://github.com/WiebeHero/ProjectGame)
-
-### DungeonForgeJ13
 [![DungeonForgeJ13](https://github-readme-stats.vercel.app/api/pin/?username=WiebeHero&repo=DungeonForgeJ13&theme=dark)](https://github.com/WiebeHero/DungeonForgeJ13)
-
-### AlgorithmsAssignment
 [![AlgorithmsAssignment](https://github-readme-stats.vercel.app/api/pin/?username=WiebeHero&repo=AlgorithmsAssignment&theme=dark)](https://github.com/WiebeHero/AlgorithmsAssignment)
-
-### The Rolling Cones
 [![The-Rolling-Cones](https://github-readme-stats.vercel.app/api/pin/?username=Koen-H&repo=The-Rolling-Cones&theme=dark)](https://github.com/Koen-H/The-Rolling-Cones)
