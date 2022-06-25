@@ -26,24 +26,17 @@ My name is Wiebe Sportel, and I am an aspiring programmer, my main focus is in G
 ### SinnerGame
 [![SinnerGame](https://github-readme-stats.vercel.app/api/pin/?username=WiebeHero&repo=SinnerGame&theme=dark)](https://github.com/WiebeHero/SinnerGame)
 
-Sinner Game was an ambition project that I made for school. This is meant to be the actual game version, using the JEngine2D.
-
 ### JEngine2D
 [![JEngine2D](https://github-readme-stats.vercel.app/api/pin/?username=WiebeHero&repo=JEngine2D&theme=dark)](https://github.com/WiebeHero/JEngine2D)
-
-JEngine2D was an ambition project that I made for school. This is meant to be the base of the engine I was making for a specific game I was going to make with this engine.
 
 ### ProjectGame
 [![ProjectGame](https://github-readme-stats.vercel.app/api/pin/?username=WiebeHero&repo=ProjectGame&theme=dark)](https://github.com/WiebeHero/ProjectGame)
 
-Project Game was a dating sim made for a project week of school.
-
 ### DungeonForgeJ13
 [![DungeonForgeJ13](https://github-readme-stats.vercel.app/api/pin/?username=WiebeHero&repo=DungeonForgeJ13&theme=dark)](https://github.com/WiebeHero/DungeonForgeJ13)
-
-A minecraft plugin which aims to change the way you play minecraft, through using a concept called 'Factions' where you fight in teams against others, and where you can attack their base and steal their items. This plugin was made for minecraft 1.13.2, a huge improvement upon the 1.12.2 version.
 
 ### AlgorithmsAssignment
 [![AlgorithmsAssignment](https://github-readme-stats.vercel.app/api/pin/?username=WiebeHero&repo=AlgorithmsAssignment&theme=dark)](https://github.com/WiebeHero/AlgorithmsAssignment)
 
-An assignment made for school where they taught us about algorithms, how they work, and how we should implement such algorithms into code.
+### The Rolling Cones
+[![The-Rolling-Cones](https://github-readme-stats.vercel.app/api/pin/?username=Koen-H&repo=The-Rolling-Cones&theme=dark)](https://github.com/Koen-H/The-Rolling-Cones)
