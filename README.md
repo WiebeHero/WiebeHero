@@ -2,12 +2,6 @@
 
 My name is Wiebe Sportel, and I am an aspiring programmer, my main focus is in Game Development. I am currently a student at CMGT (Creative Media and Game Technologies) at Saxion University of Applied Sciences in Enschede. I love to learn!
 
-## My contact info
-
-Email: wiebesportel2001@hotmail.com
-
-Phone Number: 0651986407
-
 ## My programming skills
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.educba.com/what-is-css3/)
