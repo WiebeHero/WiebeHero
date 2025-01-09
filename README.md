@@ -35,3 +35,4 @@ My name is Wiebe Sportel, and I am an aspiring programmer, my main focus is in G
 [![DungeonForgeJ13](https://github-readme-stats.vercel.app/api/pin/?username=WiebeHero&repo=DungeonForgeJ13&theme=dark)](https://github.com/WiebeHero/DungeonForgeJ13)
 [![AlgorithmsAssignment](https://github-readme-stats.vercel.app/api/pin/?username=WiebeHero&repo=AlgorithmsAssignment&theme=dark)](https://github.com/WiebeHero/AlgorithmsAssignment)
 [![The-Rolling-Cones](https://github-readme-stats.vercel.app/api/pin/?username=Koen-H&repo=The-Rolling-Cones&theme=dark)](https://github.com/Koen-H/The-Rolling-Cones)
+[![The-Rolling-Cones](https://github-readme-stats.vercel.app/api/pin/?username=Patrycioss-H&repo=RankedByTheAudience&theme=dark)](https://github.com/patrycioss/RankedByTheAudience)
